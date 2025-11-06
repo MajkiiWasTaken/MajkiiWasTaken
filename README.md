@@ -1,4 +1,4 @@
 - 👋 Hi, I’m MajkiiWasTaken
-- 💻 Front and Backend developer, Web developer
-- 🌱 I’m currently learning JavaScript
+- 💻 App developer, V2X systems Firmware and Embedded developer
+- ⚙️ In love with C, C#, C++
 - 💼 Currently working on V2X project in C#
