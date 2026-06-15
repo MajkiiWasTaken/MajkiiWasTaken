@@ -11,11 +11,11 @@
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MajkiiWasTaken&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=MajkiiWasTaken&show_icons=true&card_width=495" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajkiiWasTaken&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajkiiWasTaken&layout=compact&card_width=495" />
 
 </td>
 </tr>
