@@ -1,6 +1,6 @@
-<table>
-<tr>
-<td>
+<table border="0">
+<tr border="0">
+<td border="0">
 
 - 👋 Hi, I’m MajkiiWasTaken
 - 💻 App developer, V2X systems, Firmware and Embedded developer
@@ -9,8 +9,8 @@
 
 </td>
 
-<td>
-  
+<td border="0">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajkiiWasTaken&layout=compact&card_width=495" />
 
 </td>
