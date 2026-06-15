@@ -1,8 +1,6 @@
 <table>
 <tr>
-<td width="60%">
-
-### About Me
+<td>
 
 - 👋 Hi, I’m MajkiiWasTaken
 - 💻 App developer, V2X systems, Firmware and Embedded developer
@@ -11,9 +9,13 @@
 
 </td>
 
-<td width="40%">
+<td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajkiiWasTaken&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=MajkiiWasTaken&show_icons=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajkiiWasTaken&layout=compact" />
 
 </td>
 </tr>
