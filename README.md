@@ -6,11 +6,6 @@
   Currently building V2X software, low-level C libraries and modern C# applications.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MajkiiWasTaken&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajkiiWasTaken&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
 ---
 
 <img align="right" width="420" src="https://github.com/user-attachments/assets/d01cf7a3-6417-4f06-81a4-a064b438cf94">
@@ -40,5 +35,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
