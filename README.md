@@ -13,6 +13,8 @@
 
 ---
 
+<img align="right" width="420" src="https://github.com/user-attachments/assets/d01cf7a3-6417-4f06-81a4-a064b438cf94">
+
 ### 🚀 About Me
 
 - 💻 Embedded Software Developer
@@ -21,6 +23,8 @@
 - 🖥️ Building desktop applications with **WPF /.NET**
 - 🔧 Interested in Firmware, RTOS, Linux and Electronics
 - 🌱 Currently learning **Embedded Linux & ARM**
+
+<br clear="right"/>
 
 ---
 
